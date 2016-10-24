@@ -1,0 +1,31 @@
+.pwdfield
+{
+    display:block;
+}
+
+
+.pwdopsdiv a
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 13px; 
+}
+
+.pwdstrengthbar
+{
+	float:right;
+	background:#cccccc;
+	height:4px;
+	margin:0;
+}
+
+.pwdstrength
+{
+	float:right; 
+	height:20px;
+	width:70px;
+	margin-top:3px;
+
+}
+
+
+
